@@ -1,0 +1,3 @@
+<?php
+    unlick("chat.txt");
+?>
